@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Operation_Chromite">
+
+	<Key ID="STR_TB_missionTitle_TB_Operation_Chromite">
+		<Original>Operation_Chromite</Original>
+		<English>Operation_Chromite</English>
+		<German>Operation_Chromite</German>
+		<Italian>Operation_Chromite</Italian>
+		<Spanish>Operation_Chromite</Spanish>
+		<French>Operation_Chromite</French>
+		<Czech>Operation_Chromite</Czech>
+		<Russian>Operation_Chromite</Russian>
+		<Polish>Operation_Chromite</Polish>
+		<Hungarian>Operation_Chromite</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Operation_Chromite">
+		<Original>TacBF A&amp;D[M-40]: Operation_Chromite</Original>
+		<English>TacBF A&amp;D[M-40]: Operation_Chromite</English>
+		<German>TacBF A&amp;D[M-40]: Operation_Chromite</German>
+		<Italian>TacBF A&amp;D[M-40]: Operation_Chromite</Italian>
+		<Spanish>TacBF A&amp;D[M-40]: Operation_Chromite</Spanish>
+		<French>TacBF A&amp;D[M-40]: Operation_Chromite</French>
+		<Czech>TacBF A&amp;D[M-40]: Operation_Chromite</Czech>
+		<Russian>TacBF A&amp;D[M-40]: Operation_Chromite</Russian>
+		<Polish>TacBF A&amp;D[M-40]: Operation_Chromite</Polish>
+		<Hungarian>TacBF A&amp;D[M-40]: Operation_Chromite</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
